@@ -1,9 +1,9 @@
 # PhD Thesis and Publications
 
-## [Thesis]()
+## [Thesis](https://github.com/gjkaur/PhD_Thesis_and_Research_Publications/blob/main/Gurinderjeet_Thesis_compressed.pdf)
 - Survival Prediction of Glioblastoma Patients Using Pre-Operative Brain MRI Scans
 
-## [Publications]()
+## [Publications](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=author%3Agurinderjeet+author%3Aprashant&oq=a)
 
 1. Kaur, Gurinderjeet, Prashant Singh Rana, and Vinay Arora. "State-of-the-art techniques using pre-operative brain MRI scans for survival prediction of glioblastoma multiforme patients and future research directions." Clinical and translational imaging 10.4 (2022): 355-389.
 2. Kaur, Gurinderjeet, Prashant Singh Rana, and Vinay Arora. "Extracting Radiomic features from pre-operative and segmented MRI scans improved survival prognosis of glioblastoma Multiforme patients through machine learning: a retrospective study." Multimedia Tools and Applications 82.19 (2023): 30003-30038.
